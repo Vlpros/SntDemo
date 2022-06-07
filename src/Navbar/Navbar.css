@@ -1,0 +1,47 @@
+
+  .h{
+      background-color: white;
+      margin-top: 10px;
+  }  
+
+
+
+
+  
+.item{
+
+    float:left;
+    width: 20%;
+    
+    border-color: #3498db;
+    color: #fff;
+    box-shadow: 0 0 40px 40px #3498db inset, 0 0 0 0 #3498db;
+    -webkit-transition: all 150ms ease-in-out;
+    transition: all 150ms ease-in-out;
+    
+}
+.item  :hover {
+    box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+}
+
+
+
+
+
+
+.head{
+    width:100%
+
+}
+.route{
+    width:100%
+}
+.route a{
+color: black;
+}
+img{
+    background-color: #4682B4;
+    float: left;
+    height: 60px;
+    width: 60px;
+}
